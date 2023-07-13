@@ -2,7 +2,6 @@ package com.alvimm.dslist.controllers;
 
 import com.alvimm.dslist.dto.GameDTO;
 import com.alvimm.dslist.dto.GameMinDTO;
-import com.alvimm.dslist.entities.Game;
 import com.alvimm.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
